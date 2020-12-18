@@ -15,7 +15,7 @@ namespace sampleazureProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Iam Nandinidevi!!.";
+            ViewBag.Message = "Iam Nandinidevi!!,I have Updated It";
 
             return View();
         }
